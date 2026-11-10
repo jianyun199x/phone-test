@@ -1,0 +1,1 @@
+{"name": "手机独立运行验证", "short_name": "运行验证", "start_url": "./", "display": "standalone", "background_color": "#fafafa", "theme_color": "#fafafa", "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}], "scope": "./"}
